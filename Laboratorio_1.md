@@ -16,7 +16,7 @@ Al finalizar la práctica, serás capaz de:
 
 ---
 
-**[Lista general 🗂️]()** | **[Siguiente ➡️]()**
+**[Lista general 🗂️](https://netec-mx.github.io/PBI_INT_Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_2.html)**
 
 ---
 
@@ -165,7 +165,7 @@ Adicionalmente a realizar estas acciones, nos comentan que hay información adic
 
 **ResellerSalesTargets** (contiene una fila por vendedor y por año. Las ventas objetivo están representadas en miles).
 
-¿Qué notas en los meses donde no hay ventas?
+**¿Qué notas en los meses donde no hay ventas?**
 
 - Por la estructura de la tabla, es necesario anular la dinamización de las columnas para que la información sea más fácil de manipular.
 
@@ -206,7 +206,7 @@ Ahora que la tabla Product ya incluye toda la información de los colores del pr
 
 Finalmente, ya que los datos se han cargado correctamente en el modelo semántico, vamos a editar las relaciones entre las tablas según sea necesario.
 
-> 💡 ***Nota**: A partir de este punto, se usará la nomenclatura Tabla | Columna para identificar con precisión los datos mencionados.*
+> 💡 ***Nota**: A partir de este punto, se usará la nomenclatura Tabla - Columna para identificar con precisión los datos mencionados.*
 
 Vamos a realizar un análisis sencillo que muestre la suma de las ventas por categoría de producto. Hasta ahora, nos han solicitado usar un gráfico que muestre la información en un formato similar a una tabla.
 
@@ -223,7 +223,7 @@ El resultado dependerá de si existe o no una relación.
 
 Ve a la vista de modelo para verificar cómo están definidas las relaciones. Si aún no existe una relación entre **Product** y **Sales**, créala ahora.
 
-La nueva relación debe ir de **Product** | **ProductKey a Sales** | **ProductKey**, en una relación de **uno a muchos**, lo que nos permite buscar el número de ventas por producto.
+La nueva relación debe ir de **Product** - **ProductKey a Sales** - **ProductKey**, en una relación de **uno a muchos**, lo que nos permite buscar el número de ventas por producto.
 
 Al revisar las relaciones existentes, surge la siguiente pregunta:
 
@@ -231,12 +231,12 @@ Al revisar las relaciones existentes, surge la siguiente pregunta:
 
 Sí. En la vista de modelo, puedes arrastrar un campo desde una tabla hacia otra para crear la relación. Por ejemplo:
 
-Arrastra **Reseller** | **ResellerKey** hacia **Sales** | **ResellerKey** para establecer una relación de uno a muchos, lo que te permitirá consultar las ventas por revendedor.
+Arrastra **Reseller** - **ResellerKey** hacia **Sales** - **ResellerKey** para establecer una relación de uno a muchos, lo que te permitirá consultar las ventas por revendedor.
 
 De forma similar, usando cualquiera de estas técnicas, ahora debes:
 - Unir las tablas de Region y de Salesperson con la tabla de Sales.
 
-**Region** | **SalesTerritoryKey** a **Sales** | **SalesTerritoryKey** y **Salesperson** | **EmployeeKey** a **Sales** | **EmployeeKey**
+**Region** l **SalesTerritoryKey** a **Sales** l **SalesTerritoryKey** y **Salesperson** l **EmployeeKey** a **Sales** l **EmployeeKey**
 
 Hasta este punto, tu modelo debería verse similar a lo siguiente:
 
@@ -248,14 +248,14 @@ Puedes confirmar que las relaciones se han aplicado correctamente, ya que al com
 
 Ahora, te solicitan crear una forma de explorar la información a distintos niveles. Por ejemplo, les interesa ver los datos a nivel de categoría de **producto**, **subcategoría** y **producto**.
 
-- Puedes crear una jerarquía desde **Product** | **Category** en el panel de datos.
+- Puedes crear una jerarquía desde **Product** l **Category** en el panel de datos.
 - Agrega los distintos niveles y renombra la jerarquía como `Products`.
 - No olvides aplicar los cambios.
 
 También nos solicitan organizar de manera más clara los campos dentro de las tablas. Por ejemplo, agrupar:
 - **Background Color Format** y **Font Color Format** en un folder llamado `Formatting`.
 
-Ahora el usuario requiere un proceso  similar a lo realizado con la jerarquía, pero en este caso utilizando los valores: **Region** | **Group, Region** | **Country y Region** | **Region**. 
+Ahora el usuario requiere un proceso  similar a lo realizado con la jerarquía, pero en este caso utilizando los valores: **Region** l **Group, Region** l **Country y Region** l **Region**. 
 
 Verifica en esta tabla que el campo **Country** esté correctamente marcado como **Country/Region** en los metadatos.
 
@@ -314,8 +314,8 @@ Luego, crea una nueva medida rápida llamada Profit Margin, que calcule el porce
 Prueba los valores en un gráfico de tablas.
 
 Ahora, genera una tabla (gráfico de tipo tabla) con los siguientes valores:
-Salesperson | Salesperson 
-Sales | Sales. 
+- Salesperson | Salesperson
+- Sales | Sales 
 
 Observa los valores que tiene cada vendedor.
 
@@ -323,8 +323,8 @@ Observa los valores que tiene cada vendedor.
 
 Finalmente, te solicitan crear las siguientes relaciones para analizar los datos desde otra perspectiva:
 
-- **Salesperson | EmployeeKey** a **SalespersonRegion | EmployeeKey**.
-- **Region | SalesTerritoryKey** a **SalespersonRegion | SalesTerritoryKey**.
+- **Salesperson l EmployeeKey** a **SalespersonRegion l EmployeeKey**.
+- **Region l SalesTerritoryKey** a **SalespersonRegion l SalesTerritoryKey**.
 
 Una vez creadas, vuelve a observar el gráfico.
 - **¿Los valores cambiaron?**
@@ -351,6 +351,6 @@ Los valores ahora deberían verse así
 
 ---
 
-**[Lista general 🗂️]()** | **[Siguiente ➡️]()**
+**[Lista general 🗂️](https://netec-mx.github.io/PBI_INT_Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_2.html)**
 
 ---
