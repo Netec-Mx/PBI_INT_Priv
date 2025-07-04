@@ -16,7 +16,7 @@ Al finalizar la práctica, serás capaz de:
 
 ---
 
-**[⬅️ Atrás]()** | **[Lista general 🗂️]()**
+**[⬅️ Atrás](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_3.html)** | **[Lista general 🗂️](https://netec-mx.github.io/PBI_INT_Priv/)**
 
 ---
 
@@ -55,3 +55,9 @@ Al finalizar la práctica, serás capaz de:
 17. Refresca los datos de forma manual.
 18. Ten en cuenta que las actualizaciones de datos pueden hacerse manualmente, incluso si no hay nuevos datos disponibles.
 19. Ahora que ya verificamos el contenido y está listo para compartirse, genera la aplicación para compartir tanto el dashboard como el reporte.
+
+---
+
+**[⬅️ Atrás](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_3.html)** | **[Lista general 🗂️](https://netec-mx.github.io/PBI_INT_Priv/)**
+
+---
