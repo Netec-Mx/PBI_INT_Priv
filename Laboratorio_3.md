@@ -16,7 +16,7 @@ Al finalizar la práctica, serás capaz de:
 
 ---
 
-**[⬅️ Atrás]()** | **[🗂️ Lista general]()** | **[Siguiente ➡️]()**
+**[⬅️ Atrás](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_2.html)** | **[🗂️ Lista general](https://netec-mx.github.io/PBI_INT_Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_4.html)**
 
 ---
 
@@ -227,3 +227,9 @@ El resultado debería verse más o menos como en la siguiente imagen:
 Por último, te piden crear dos marcadores, con el objetivo de que, dependiendo de cuál selecciones, se muestre una imagen u otra, evitando duplicar visualmente la información dentro del reporte.
 
 ![Actividades a realizar.](./images/E3.22.png)
+
+---
+
+**[⬅️ Atrás](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_2.html)** | **[🗂️ Lista general](https://netec-mx.github.io/PBI_INT_Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_4.html)**
+
+---
