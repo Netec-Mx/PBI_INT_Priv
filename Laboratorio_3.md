@@ -32,84 +32,50 @@ Al finalizar la práctica, serás capaz de:
 ## Página Overview
 
 1. A la primera página del reporte que vas a crear nómbrala **Overview**, así que cambia el nombre de la página de **Página 1** a **Overview**.
-
-2. Lo primero que te piden hacer en la página Overview es agregar el logotipo de la empresa, el cual se encuentra en la carpeta **Documentos**. Te indican que debe colocarse en la esquina superior izquierda de la primera página del reporte.
-
-> 💡 ***Nota:** Como referencia, puedes usar la siguiente imagen para guiarte en la ubicación y el tamaño aproximado que debería tener el logotipo.*
-
-![Actividades a realizar.](./images/E3.2.png)
-
-> 💡 ***Nota:** Continúa usando la nomenclatura **Tabla | Columna** a lo largo de este laboratorio, así que mantén esta sintaxis en los siguientes al agregar campos.
-
-3. A continuación, te piden agregar un segmentador para filtrar la información por **Date | Year**. Este segmentador debe personalizarse como un Menú desplegable y colocarse justo debajo de la imagen del logo.
-
-> 💡 ***Nota:** Sigue como referencia la siguiente imagen.*
-
-![Actividades a realizar.](./images/E3.3.png)
-
-Para este reporte, lo relevantes es visualizar la información para el año fiscal 2020.
-
+2. Lo primero que te piden hacer en la página Overview es agregar el logotipo de la empresa, el cual se encuentra en la carpeta **Documentos**. Te indican que debe colocarse en la esquina superior izquierda de la primera página del reporte. <br>
+  > 💡 ***Nota:** Como referencia, puedes usar la siguiente imagen para guiarte en la ubicación y el tamaño aproximado que debería tener el logotipo.* <br>
+  ![Actividades a realizar.](./images/E3.2.png)<br>
+  > 💡 ***Nota:** Continúa usando la nomenclatura **Tabla | Columna** a lo largo de este laboratorio, así que mantén esta sintaxis en los siguientes al agregar campos.* <br>
+3. A continuación, te piden agregar un segmentador para filtrar la información por **Date | Year**. Este segmentador debe personalizarse como un Menú desplegable y colocarse justo debajo de la imagen del logo.<br>
+  > 💡 ***Nota:** Sigue como referencia la siguiente imagen.* <br>
+  ![Actividades a realizar.](./images/E3.3.png) <br>
+  Para este reporte, lo relevantes es visualizar la información para el año fiscal 2020. <br>
 4. Ahora, te solicitan añadir un segmentador para filtrar la información por **Region | Region**, el cual debe ser personalizado para que sea una **Lista** y colocarlo debajo del objeto anterior.
-
-Toma como referencia la siguiente imagen.
-
-![Actividades a realizar.](./images/E3.4.png)
-
-Para la siguiente visualización, toma como referencia la siguiente imagen.
-
-![Actividades a realizar.](./images/E3.5.png)
-
-5. También te piden añadir una visualización de tipo gráfico de columnas apiladas y líneas combinadas. Este objeto visual debe medir las ventas por mes y el margen de beneficio. El gráfico debe incluir todos los meses, tengan o no datos asociados.
-
-> 💡 ***Nota:** Recuerda cómo funcionan los ejes X y Y: el eje X representa la variable independiente. Ten en cuenta que los valores dentro de una visualización son **"personalizables"**, por lo que puedes ajustar opciones específicas para cada campo. Por ejemplo, puedes modificar el comportamiento predeterminado para que sí se muestren todos los meses, incluso si no tienen datos.*
-
-- Date | Month
-- Sales | Sales
-- Sales | Profit Margin
-
-Para la siguiente visualización, toma como referencia la siguiente imagen.
-
-![Actividades a realizar.](./images/E3.6.png)
-
-6. Ahora te piden agregar una visualización de tipo gráfico de columnas apiladas. Este gráfico debe mostrar las **ventas por país** y, además, incluir una leyenda que indique a qué categoría de producto se está mencionando.
-
-- Region | Country
-- Sales | Sales
-- Product | Category
-
-Para la siguiente visualización, toma como referencia la siguiente imagen.
-
-![Actividades a realizar.](./images/E3.7.png)
-
-7. También te dolicitan agregar una visualización de un grafico de barras apiladas. Este gráfico debe mostrar las **ventas por categoría de producto** y, además, debe incluir las etiquetas de datos.
-
-- Product | Category  
-- Sales | Quantity
-
-El resultado de la pagina overview deberia ser similar a la siguiente imagen:
-
-![Actividades a realizar.](./images/E3.8.png)
-
-8. Procede a crear una segunda pagina, la cual debes nombrar **Profit**.
-
-Para la siguiente visualización, toma como referencia la siguiente imagen.
-
-  ![Actividades a realizar.](./images/E3.9.png)
-
+  Toma como referencia la siguiente imagen. <br>
+  ![Actividades a realizar.](./images/E3.4.png) <br>
+  Para la siguiente visualización, toma como referencia la siguiente imagen. <br>
+  ![Actividades a realizar.](./images/E3.5.png) <br>
+5. También te piden añadir una visualización de tipo gráfico de columnas apiladas y líneas combinadas. Este objeto visual debe medir las ventas por mes y el margen de beneficio. El gráfico debe incluir todos los meses, tengan o no datos asociados.  <br>
+  > 💡 ***Nota:** Recuerda cómo funcionan los ejes X y Y: el eje X representa la variable independiente. Ten en cuenta que los valores dentro de una visualización son **"personalizables"**, por lo que puedes ajustar opciones específicas para cada campo. Por ejemplo, puedes modificar el comportamiento predeterminado para que sí se muestren todos los meses, incluso si no tienen datos.* <br>
+  - Date | Month <br>
+  - Sales | Sales <br>
+  - Sales | Profit Margin <br>
+  Para la siguiente visualización, toma como referencia la siguiente imagen. <br>
+  ![Actividades a realizar.](./images/E3.6.png) <br>
+6. Ahora te piden agregar una visualización de tipo gráfico de columnas apiladas. Este gráfico debe mostrar las **ventas por país** y, además, incluir una leyenda que indique a qué categoría de producto se está mencionando. <br>
+  - Region | Country <br>
+  - Sales | Sales <br>
+  - Product | Category <br>
+  Para la siguiente visualización, toma como referencia la siguiente imagen. <br>
+  ![Actividades a realizar.](./images/E3.7.png) <br>
+7. También te dolicitan agregar una visualización de un grafico de barras apiladas. Este gráfico debe mostrar las **ventas por categoría de producto** y, además, debe incluir las etiquetas de datos. <br>
+  - Product | Category   <br>
+  - Sales | Quantity <br>
+  El resultado de la pagina overview deberia ser similar a la siguiente imagen: <br>
+  ![Actividades a realizar.](./images/E3.8.png) <br>
+8. Procede a crear una segunda pagina, la cual debes nombrar **Profit**. <br>
+  Para la siguiente visualización, toma como referencia la siguiente imagen. <br>
+  ![Actividades a realizar.](./images/E3.9.png) <br>
 9. Te piden agregar un segmentador para filtrar la información por regiones. Como existen múltiples regiones, queremos facilitar el uso de este filtro activando la opción de seleccionar todos los valores.
-
-  - Region | Region
-
-Para la siguiente visualización, toma como referencia la siguiente imagen.
-
-![Actividades a realizar.](./images/E3.10.png)
-
-10. Te piden agregar un objeto visual de matriz, en el que se desea mostrar la información organizada por fechas, año fiscal, trimestres o mes. Los datos que deben incluirse en la matriz son los siguientes:
-  - El conteo de ordenes
-  - La suma de las ventas
-  - La suma de los costos
-  - El beneficio
-  - El margen del beneficio
+  - Region | Region <br>
+  Para la siguiente visualización, toma como referencia la siguiente imagen. <br>
+  ![Actividades a realizar.](./images/E3.10.png) <br>
+10. Te piden agregar un objeto visual de matriz, en el que se desea mostrar la información organizada por fechas, año fiscal, trimestres o mes. Los datos que deben incluirse en la matriz son los siguientes: <br>
+  - El conteo de ordenes <br>
+  - La suma de las ventas <br>
+  - La suma de los costos <br>
+  - El beneficio <br>
+  - El margen del beneficio <br>
 
 - Date | Fiscal
 - Sales | Orders
