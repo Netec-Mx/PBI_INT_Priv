@@ -27,29 +27,21 @@ Al finalizar la práctica, serás capaz de:
 4. Después de esto, crea una nueva área de trabajo y guarda una copia de tu reporte en esta nueva área. Nombra esta copia como `Reporte compartir`.
 5. En esta tarea, crearás el Dashboard de Monitoreo de Ventas. Anclarás un elemento visual del informe, agregarás un mosaico basado en una URI de datos de imagen y usarás Preguntas y respuestas para crearlo. Recuerda que todo esto lo estamos haciendo en la nueva área de trabajo.
 6. Abre el reporte que acabamos de subir. En la página Overview, configura la segmentación de datos en FY2020 y la segmentación de región en Seleccionar todos.
-7. Para crear un dashboard y anclar un elemento visual, coloca el cursor sobre el objeto visual que desees y selecciona la chincheta.
-
-  > Por ejemplo, puedes usar el objeto visual de Ventas y margen de beneficio por mes.
-
-8. Como aún no tienes ningún dashboard, crea uno nuevo y llámalo "Sales Monitoring", luego fija el contenido en él.
+7. Para crear un dashboard y anclar un elemento visual, coloca el cursor sobre el objeto visual que desees y selecciona la chincheta. <br>
+  > Por ejemplo, puedes usar el objeto visual de Ventas y margen de beneficio por mes. <br>
+8. Como aún no tienes ningún dashboard, crea uno nuevo y llámalo "Sales Monitoring", luego fija el contenido en él. 
 9. Abre el dashboard generado y agrega un mosaico basado en Preguntas y respuestas.
 10. Selecciona cualquiera de las preguntas sugeridas debajo del cuadro de Preguntas y respuestas y revisa la respuesta generada.
-11. Ahora, prueba hacer una pregunta que mencione el concepto de YTD mencionando y omitiendo un año en concreto. Compara los resultados obtenidos.
-
-  > Recuerda que esto corresponde a una medida, por lo que los resultados pueden variar según el contexto aplicado.
-
+11. Ahora, prueba hacer una pregunta que mencione el concepto de YTD mencionando y omitiendo un año en concreto. Compara los resultados obtenidos.  <br>
+  > Recuerda que esto corresponde a una medida, por lo que los resultados pueden variar según el contexto aplicado. <br>
 12. Con la imagen ya lista, fija el contenido al dashboard.
 13. Ahora, agrega el logotipo de la empresa insertando un mosaico de imagen y apuntando a la ruta donde se encuentra el archivo con la liga (almacenada en un documento .txt dentro de la carpeta Documentos).
 14. Organiza los mosaicos de manera que:
-
-  - El logotipo aparezca en la esquina superior izquierda.
-  - El mosaico de YTD esté debajo del logotipo.
-  - El mosaico "Ventas, margen de beneficio" se ubique a la derecha.
-
-  > Puedes guiarte con la imagen de referencia proporcionada.
-
-  ![Actividades a realizar.](./images/E4.1.png)
-
+  - El logotipo aparezca en la esquina superior izquierda. <br>
+  - El mosaico de YTD esté debajo del logotipo. <br>
+  - El mosaico "Ventas, margen de beneficio" se ubique a la derecha. <br>
+  > Puedes guiarte con la imagen de referencia proporcionada. <br>
+  ![Actividades a realizar.](./images/E4.1.png) <br>
 15. Agrega al mosaico YTD un subtítulo (por ejemplo: "FY2020").
 16. Edita los detalles del mosaico "Ventas, margen de beneficio" para que muestre la última hora de actualización.
 17. Refresca los datos de forma manual.
