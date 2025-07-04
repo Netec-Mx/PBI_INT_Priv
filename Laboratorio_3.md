@@ -215,7 +215,7 @@ A esta tabla debes aplicarle formato condicional para el margen de beneficio en 
 
 Además, aplica formato condicional al fondo de una columna en función del texto que contiene.
 
-> 💡 ***Nota:** Puedes tomar como referencia las opciones "Background Color Format" y "Font Color Format" para configurar esta parte correctamente.
+> 💡 ***Nota:** Puedes tomar como referencia las opciones "Background Color Format" y "Font Color Format" para configurar esta parte correctamente.*
 
 ## Resultado esperado:
 
