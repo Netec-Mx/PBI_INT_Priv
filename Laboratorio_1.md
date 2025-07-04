@@ -1,7 +1,7 @@
 # Práctica 1. Optimización de un modelo de datos y aplicación de medidas DAX
 
 ## 📝 Planteamiento de la práctica:
-Como parte de las actividades de desarrollo de un reporte, le piden descargar y modelar los datos dentro de la aplicación de Power BI Desktop. Entre las tareas que realizara en este laboratorio se encuentran la extracción de los datos, el proceso de limpiar los datos y analizar las relaciones entre las tablas. As+i como decidir si se conservan las tablas o se dejan de lado.
+Como parte de las actividades de desarrollo de un reporte, le piden descargar y modelar los datos dentro de la aplicación de Power BI Desktop. Entre las tareas que realizarás en este laboratorio se encuentran la extracción de los datos, el proceso de limpiar los datos y analizar las relaciones entre las tablas. Así como decidir si se conservan las tablas o se dejan de lado.
 
 ## 🎯 Objetivos:
 Al finalizar la práctica, serás capaz de:
@@ -136,7 +136,7 @@ En la consulta, conserva únicamente las siguientes columnas:
   * EmployeeKey
   * SalesTerritoryKey
   * OrderQuantity, que renombrarás como `Quantity`.
-  * UnitPrice,  al que debes agregar un espacio en el nombre para mejorar su legibilidad.
+  * UnitPrice,  al que debes renombrar para agregar un espacio en el nombre para mejorar su legibilidad.
   * TotalProductCost
   * SalesAmount, que renombrarás como `Sales`.
   * DimProduct
@@ -161,7 +161,7 @@ Ahora reflexiona y revisa lo siguiente:
 
 Haz este mismo análisis para las columnas Unit Price, Sales y Cost, y ajusta sus tipos de datos si es necesario.
 
-Adicionalmente a realizar estas acciones, nos comentan que hay información adicional que no está en la base de datos, para ello vamos a agregar los datos desde estos 2 archivos al modelo semántico, estos archivos se encuentren en la carpeta documentos.
+Adicionalmente a realizar estas acciones, nos comentan que hay información adicional que no está en la base de datos, para ello vamos a agregar los datos desde estos 2 archivos al modelo semántico, estos archivos se encuentran en la carpeta **Documentos**.
 
 **ResellerSalesTargets** (contiene una fila por vendedor y por año. Las ventas objetivo están representadas en miles).
 
@@ -172,7 +172,7 @@ Adicionalmente a realizar estas acciones, nos comentan que hay información adic
     > 💡 ***Nota:** Recuerda que puedes seleccionar columnas como **Year** y **EmployeeID**, y luego anular la dinamización de las demás columnas.*
 
 - Filtra los valores que no tengan valores en la columna de **Value**.
-- Renombra la columna **Attibute** como `MonthNumber`, y **Value** como `Target`.
+- Renombra la columna **Attribute** como `MonthNumber`, y **Value** como `Target`.
 - Verifica si los valores en la columna MonthNumber contienen solo el número del mes. Si no es así, reemplaza el texto adicional para que solo quede el número del mes.
 - En la pestaña Agregar columna, dentro del grupo General, selecciona el icono Columna de ejemplos. 
 - Observa que la primera fila corresponde al año 2017 y al mes número 7. 
@@ -341,7 +341,7 @@ Reflexiona: **¿por qué crees que está ocurriendo esto?**
 Ahora, cambia el nombre de la tabla **Salesperson** a `Salesperson (Performance)`.
 
 Para terminar, te piden crear última relación por el momento entre:
-- **Salesperson (Performance) | EmployeeID** y **Targets | EmployeeID**.
+- Salesperson (Performance) | EmployeeID y Targets | EmployeeID.
 
 ## Resultado esperado: 
 
