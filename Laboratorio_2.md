@@ -20,9 +20,10 @@ Al finalizar la práctica, serás capaz de:
 
 ---
 
-**[⬅️ Atrás]()** | **[🗂️ Lista general]()** | **[Siguiente ➡️]()**
+**[⬅️ Atrás](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_1.html)** | **[🗂️ Lista general](https://netec-mx.github.io/PBI_INT_Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_3.html)**
 
 ---
+
 ## Instrucciones:
 
 ### Acceder al Servicio de Power BI:
@@ -31,11 +32,11 @@ Al finalizar la práctica, serás capaz de:
 
 2. Una vez que hayas ingresado, busca en el menú lateral izquierdo la opción **Aplicaciones**.
 
-  ![Menú aplicaciones](./images/E2.1.png)
+    ![Menú aplicaciones](./images/E2.1.png)
 
 3. Ahora busca la opción Obtener aplicaciones. Desde ahí, puedes conseguir aplicaciones creadas por tu organización o explorar ejemplos que otras personas han desarrollado y decidido compartir.
 
-![Obtener aplicaciones](./images/E2.2.png)
+    ![Obtener aplicaciones](./images/E2.2.png)
 
 4. Como puedes observar, existen distintos ejemplos de aplicaciones que puedes analizar. La elección queda a tu criterio, pero como sugerencia, te recomendamos escoger una aplicación que esté relacionada con el giro de la empresa en la que trabajas, o al menos con algo lo más parecido posiblee.
 
@@ -56,3 +57,9 @@ Al finalizar la práctica, serás capaz de:
 El análisis debe considerar factores como los colores, el aprovechamiento del espacio, la saturación de información, lo intuitivo que resulta entender los datos, la relación entre los gráficos, la forma en que están agrupados, entre otros aspectos que vimos a lo largo del capítulo.
 
 Algunos de estos análisis serán expuestos a tus compañeros, así que es importante que pienses en cómo vas a contar tus hallazgos, qué áreas de mejora identificaste en la aplicación y qué elementos observaste que te gustaría aplicar en tus propios reportes.
+
+---
+
+**[⬅️ Atrás](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_1.html)** | **[🗂️ Lista general](https://netec-mx.github.io/PBI_INT_Priv/)** | **[Siguiente ➡️](https://netec-mx.github.io/PBI_INT_Priv/Laboratorio_3.html)**
+
+---
