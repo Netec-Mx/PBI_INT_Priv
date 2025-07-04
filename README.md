@@ -21,7 +21,9 @@ Cada uno de estos laboratorios están diseñados para ofrecerte una experiencia 
 
 04. ### [Práctica 4. Creación de Dashboards y su aplicación](./Laboratorio_4.md)
     - ⏱️**Duración estimada**: 60 min.
+
 ---
+
 ## 📬 **Contacto y más información**
 
 Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
