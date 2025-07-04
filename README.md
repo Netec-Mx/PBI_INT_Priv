@@ -16,7 +16,7 @@ Cada uno de estos laboratorios están diseñados para ofrecerte una experiencia 
 02. ### [Práctica 2. Rediseño de informe: Aplicación de storytelling](./Laboratorio_2.md)
     - ⏱️ **Duración estimada**: 60 min.
 
-03. ### [Práctica 3. Diseño de informe con navegación y visualizaciones interactivas](./Laboratorio_3.md.md)
+03. ### [Práctica 3. Diseño de informe con navegación y visualizaciones interactivas](./Laboratorio_3.md)
     - ⏱️**Duración estimada**: 60 min.
 
 04. ### [Práctica 4. Creación de Dashboards y su aplicación](./Laboratorio_4.md)
