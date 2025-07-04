@@ -43,6 +43,7 @@ Al finalizar la práctica, serás capaz de:
   > Puedes guiarte con la imagen de referencia proporcionada. <br>
   
   ![Actividades a realizar.](./images/E4.1.png) <br>
+  
 15. Agrega al mosaico YTD un subtítulo (por ejemplo: "FY2020").
 16. Edita los detalles del mosaico "Ventas, margen de beneficio" para que muestre la última hora de actualización.
 17. Refresca los datos de forma manual.
